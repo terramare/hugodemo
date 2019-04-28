@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: https://terramare.github.io/hugodemo/
 publishDir: docs
 languageCode: en-us
 title: Hugo Fresh Theme
